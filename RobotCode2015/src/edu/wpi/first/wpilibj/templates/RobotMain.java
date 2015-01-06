@@ -25,8 +25,7 @@ public class RobotMain extends IterativeRobot {
     public void robotInit() {
 
     }
-//Testing one two three come on you little
-    //asdf
+
     /**
      * This function is called periodically during autonomous
      */
